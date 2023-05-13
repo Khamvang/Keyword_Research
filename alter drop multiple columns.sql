@@ -1,3 +1,7 @@
+From:
+https://stackoverflow.com/questions/6346120/how-to-drop-multiple-columns-with-a-single-alter-table-statement-in-sql-server
+
+
 Summarizing
 Oracle:
 ALTER TABLE table_name DROP (column_name1, column_name2);
